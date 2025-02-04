@@ -22,4 +22,5 @@ If you lose, press 'P' to restart or 'Q' to quit.
 🛠 Requirements
 
 Python 3
+
 Pygame (pip install pygame)
